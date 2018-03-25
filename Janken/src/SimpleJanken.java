@@ -52,6 +52,7 @@ public class SimpleJanken {
 	    }
 
 	    System.out.println(" vs. ");
+	    System.out.println("-----");
 
 	}
     }
